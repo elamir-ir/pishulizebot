@@ -6,7 +6,7 @@ $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
 echo "running\n";
 
-$BOT_TOKEN = "6570606982:AAHC-FzjRF6phgv6iFhjx6yPQZsMUJfL84U";
+$BOT_TOKEN = "";
 $last_update_id = 0;
 require_once("./buttons.php");
 
